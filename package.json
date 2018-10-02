@@ -1,0 +1,21 @@
+{
+  "name": "di-workshop-04-arrays-loops",
+  "version": "1.0.0",
+  "description": "Arrays & loops workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adaapp/di-workshop-04-arrays-loops.git"
+  },
+  "author": "Alex Dytrych <alex@ada.ac.uk>",
+  "bugs": {
+    "url": "https://github.com/adaapp/di-workshop-04-arrays-loops/issues"
+  },
+  "homepage": "https://github.com/adaapp/di-workshop-04-arrays-loops#readme",
+  "dependencies": {
+    "serve": "^10.0.2"
+  }
+}
