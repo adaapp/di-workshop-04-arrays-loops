@@ -30,7 +30,7 @@ through on paper if it'll help.**
 
 ```js
 function setup() {
-  size(400, 400)
+  createCanvas(400, 400)
   background(200)
 }
 
